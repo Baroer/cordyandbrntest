@@ -1,2 +1,1 @@
-# cordyandbrntest
-deneme
+Bu Altyapı Narcos Development BotMaker sistemi ile yapılmıştır hakları tamamen Narcos Development ekibine aittir izinsiz paylaşım halinde gerekli işlemler yapılacaktır
